@@ -1,0 +1,7 @@
+mouse
+pillow
+requests
+keyboard
+beautifulsoup4
+psutil
+numpy
